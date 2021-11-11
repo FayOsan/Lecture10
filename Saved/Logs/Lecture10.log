@@ -1251,3 +1251,147 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2021.11.11-19.15.50:655][563]AssetCheck: New page: Asset Save: multiple assets
 [2021.11.11-19.15.50:655][563]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2021.11.11-19.15.50:656][563]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.11.11-19.23.25:199][508]LogSlate: Took 0.005512 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.11.11-19.23.25:211][508]LogSlate: Took 0.005120 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.11.11-19.23.31:010][154]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.11.11-19.23.31:018][154]LogContentBrowser: Creating deferred item: NewFolder
+[2021.11.11-19.23.33:956][503]LogContentBrowser: Attempting asset rename: NewFolder -> Lecture10
+[2021.11.11-19.23.33:956][503]LogContentBrowser: End creating deferred item NewFolder
+[2021.11.11-19.23.52:151][859]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.11.11-19.23.52:172][859]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.11.11-19.23.52:179][859]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.11.11-19.24.00:111][804]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Rotation
+[2021.11.11-19.24.00:115][804]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.11.11-19.24.02:802][118]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Lecture10/BP_Rotation.BP_Rotation
+[2021.11.11-19.24.02:963][118]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 127 classes and 0 folders.
+[2021.11.11-19.24.03:672][118]LogStaticMesh: StaticMesh /Engine/EditorMeshes/PhAT_FloorBox.PhAT_FloorBox should be resaved to improve async compilation performance.
+[2021.11.11-19.25.17:315][524]LogSlate: Took 0.000134 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.11.11-19.25.22:682][136]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Cone.Shape_Cone should be resaved to improve async compilation performance.
+[2021.11.11-19.26.28:592][399]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Sphere.Shape_Sphere should be resaved to improve async compilation performance.
+[2021.11.11-19.26.28:611][399]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (Shape_Sphere) ...
+[2021.11.11-19.26.37:865][122]LogEditorTransaction: Undo Modify Component(s)
+[2021.11.11-19.28.13:874][443]BlueprintLog: New page: Compile BP_Rotation
+[2021.11.11-19.28.13:937][443]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2021.11.11-19.28.14:958][538]BlueprintLog: New page: Compile BP_Rotation
+[2021.11.11-19.28.15:002][538]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2021.11.11-19.28.30:552][888]Cmd: DELETE
+[2021.11.11-19.28.30:552][888]Cmd: ACTOR DELETE
+[2021.11.11-19.28.30:624][888]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.11-19.28.30:684][888]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2021.11.11-19.28.30:685][888]LogEditorActor: Deleted 1 Actors (0.090 secs)
+[2021.11.11-19.28.30:989][918]Cmd: DELETE
+[2021.11.11-19.28.30:989][918]Cmd: ACTOR DELETE
+[2021.11.11-19.28.30:990][918]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.11-19.28.31:014][918]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2021.11.11-19.28.31:016][918]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2021.11.11-19.28.31:436][959]Cmd: DELETE
+[2021.11.11-19.28.31:436][959]Cmd: ACTOR DELETE
+[2021.11.11-19.28.31:438][959]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.11-19.28.31:475][959]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2021.11.11-19.28.31:476][959]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2021.11.11-19.28.31:833][995]Cmd: DELETE
+[2021.11.11-19.28.31:833][995]Cmd: ACTOR DELETE
+[2021.11.11-19.28.31:834][995]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.11-19.28.31:860][995]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2021.11.11-19.28.31:861][995]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2021.11.11-19.28.32:307][ 40]Cmd: DELETE
+[2021.11.11-19.28.32:307][ 40]Cmd: ACTOR DELETE
+[2021.11.11-19.28.32:308][ 40]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.11-19.28.32:334][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2021.11.11-19.28.32:335][ 40]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2021.11.11-19.28.32:794][ 86]Cmd: DELETE
+[2021.11.11-19.28.32:794][ 86]Cmd: ACTOR DELETE
+[2021.11.11-19.28.32:795][ 86]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.11-19.28.32:820][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2021.11.11-19.28.32:821][ 86]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2021.11.11-19.28.35:111][354]Cmd: DELETE
+[2021.11.11-19.28.35:111][354]Cmd: ACTOR DELETE
+[2021.11.11-19.28.35:112][354]LogEditorActor: Deleted Actor: DocumentationActor
+[2021.11.11-19.28.35:136][354]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2021.11.11-19.28.35:137][354]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2021.11.11-19.28.39:487][828]Cmd: DELETE
+[2021.11.11-19.28.39:487][828]Cmd: ACTOR DELETE
+[2021.11.11-19.28.39:489][828]LogEditorActor: Deleted Actor: TextRenderActor
+[2021.11.11-19.28.39:512][828]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2021.11.11-19.28.39:513][828]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2021.11.11-19.28.50:384][ 29]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2021.11.11-19.28.50:391][ 29]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.11-19.28.50:391][ 29]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 11, 2021, 3:28:50 AM)
+[2021.11.11-19.28.50:393][ 29]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.11.11-19.28.50:394][ 29]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.11.11-19.28.50:395][ 29]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.11.11-19.28.50:409][ 29]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014585s)
+[2021.11.11-19.28.50:411][ 29]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.11.11-19.28.50:411][ 29]LogPlayLevel: PIE: World Init took: (0.001642s)
+[2021.11.11-19.28.50:411][ 29]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016430s)
+[2021.11.11-19.28.50:441][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2021.11.11-19.28.50:443][ 29]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.11.11-19.28.50:443][ 29]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.11-19.28.50:443][ 29]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.11-19.28.50:443][ 29]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.11-19.28.50:443][ 29]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.11-19.28.50:443][ 29]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.11-19.28.50:443][ 29]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.11-19.28.50:443][ 29]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.11-19.28.50:443][ 29]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.11-19.28.50:443][ 29]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.11-19.28.50:444][ 29]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.11-19.28.50:447][ 29]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.11-19.28.50:447][ 29]LogAudioMixer: Display: 1: FrontRight
+[2021.11.11-19.28.50:458][ 29]LogAudioMixer: Display: Using Audio Device Speakers (Razer Kraken Kitty Edition)
+[2021.11.11-19.28.50:459][ 29]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.11-19.28.50:459][ 29]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.11-19.28.50:459][ 29]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.11-19.28.50:460][ 29]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.11-19.28.50:460][ 29]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.11-19.28.50:461][ 29]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.11-19.28.50:461][ 29]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.11-19.28.50:461][ 29]LogInit: FAudioDevice initialized.
+[2021.11.11-19.28.50:461][ 29]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonExampleMap'.
+[2021.11.11-19.28.50:470][ 29]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.11.11-19.28.50:472][ 29]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.11.11-11.28.50
+[2021.11.11-19.28.50:472][ 29]LogWorld: Bringing up level for play took: 0.001561
+[2021.11.11-19.28.50:472][ 29]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2021.11.11-19.28.50:478][ 29]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.11.11-19.28.50:479][ 29]PIE: Server logged in
+[2021.11.11-19.28.50:480][ 29]PIE: Play in editor total start time 0.091 seconds.
+[2021.11.11-19.28.50:575][ 30]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/GameStateBase_16.svg'. File could not be found
+[2021.11.11-19.28.59:769][896]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.11-19.28.59:769][896]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.11.11-19.28.59:769][896]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.11.11-19.28.59:769][896]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.11-19.28.59:780][896]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.11-19.28.59:793][896]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.11-19.28.59:820][896]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.11-19.28.59:822][896]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.11-19.28.59:823][896]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.11-19.28.59:824][896]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.11-19.28.59:860][896]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2021.11.11-19.28.59:905][896]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2021.11.11-19.28.59:936][897]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2021.11.11-19.29.01:248][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2021.11.11-19.29.01:272][ 17]LogSavePackage: Moving '../../../../UnrealEngine Projects/Lecture10/Saved/ThirdPersonExampleMap7F2301B24ABFBB35D38D8A9B2A7C3FD5.tmp' to '../../../../UnrealEngine Projects/Lecture10/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.11.11-19.29.01:275][ 17]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData
+[2021.11.11-19.29.01:357][ 17]LogSavePackage: Moving '../../../../UnrealEngine Projects/Lecture10/Saved/ThirdPersonExampleMap_BuiltData13B192C14D45B356D45A888494E9E99F.tmp' to '../../../../UnrealEngine Projects/Lecture10/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.11.11-19.29.01:358][ 17]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData
+[2021.11.11-19.29.01:369][ 17]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.11-19.29.01:369][ 17]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.11.11-19.29.01:370][ 17]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.11.11-19.29.02:518][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2021.11.11-19.29.02:565][ 90]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lecture10/BP_Rotation" FILE="../../../../UnrealEngine Projects/Lecture10/Content/Lecture10/BP_Rotation.uasset" SILENT=true
+[2021.11.11-19.29.02:572][ 90]LogSavePackage: Moving '../../../../UnrealEngine Projects/Lecture10/Saved/BP_RotationE6F92A42450093C8CAEA72B34A659C51.tmp' to '../../../../UnrealEngine Projects/Lecture10/Content/Lecture10/BP_Rotation.uasset'
+[2021.11.11-19.29.02:586][ 90]AssetCheck: New page: Asset Save: BP_Rotation
+[2021.11.11-19.29.02:586][ 90]LogContentValidation: Display: Validating Blueprint /Game/Lecture10/BP_Rotation.BP_Rotation
+[2021.11.11-19.29.15:854][367]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2021.11.11-19.29.15:867][367]LogSavePackage: Moving '../../../../UnrealEngine Projects/Lecture10/Saved/ThirdPersonExampleMapF767B6754BD065E54891BC8EA7BDFF8E.tmp' to '../../../../UnrealEngine Projects/Lecture10/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.11.11-19.29.15:869][367]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData
+[2021.11.11-19.29.15:947][367]LogSavePackage: Moving '../../../../UnrealEngine Projects/Lecture10/Saved/ThirdPersonExampleMap_BuiltData81E406104E97E617E31620A02E92D4BA.tmp' to '../../../../UnrealEngine Projects/Lecture10/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.11.11-19.29.15:948][367]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData
+[2021.11.11-19.29.15:959][367]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.11-19.29.15:959][367]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.11.11-19.29.15:959][367]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.11.11-19.29.17:762][540]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
